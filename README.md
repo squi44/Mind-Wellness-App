@@ -3,7 +3,7 @@
 ## Introduction
 The Mental Health App is an interactive platform that provides a comprehensive analysis of global mental health trends. It focuses on the prevalence and impact of various mental disorders, leveraging data science techniques to offer insights into mental health across different demographics and regions.
 
-**Live Application:** [Mental Health App](https://mental-health-app-4uj7xqdbba-uc.a.run.app)
+**Live Application:** [Mental Wellness App](https://mental-health-app-4uj7xqdbba-uc.a.run.app)
 
 **Screenshots:** *(Note: These are just excerpts from the application)*
 
@@ -50,7 +50,7 @@ The Mental Health App is an interactive platform that provides a comprehensive a
 - **Survey Analysis:** Insights from global mental health surveys, focusing on public perception and societal impact.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/Tanguy9862/mental-health-app.git`
+1. Clone the repository: `git clone https://github.com//squi44/Mind-Wellness-App
 2. Navigate to the app directory: `cd mental-health-app`
 3. Install required packages: `pip install -r requirements.txt`
 4. Run the app: `python app.py`
