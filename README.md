@@ -23,9 +23,6 @@ The Mental Health App is an interactive platform that provides a comprehensive a
 - **Responsive Design:** Fully responsive, ensuring a seamless experience across devices.
 - **User Experience:** Intuitive interface with Dash and Dash Mantine Components.
 
-## Collaboration
-This project is a collaborative effort between myself and [Mateo Canciani](https://github.com/MateoCanciani), combining our skills and ideas to create a comprehensive data science application.
-
 ## Application Structure
 - **Root Directory:**
   - `app.py`: Main application file.
